@@ -5,3 +5,4 @@
 # in the order that they should be in in setup.py
 ga4gh-common==0.0.7
 protobuf==3.3.0
+git+git://github.com/haoyuanli/candig-client.git@v1.0.0
